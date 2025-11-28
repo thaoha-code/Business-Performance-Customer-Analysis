@@ -65,5 +65,5 @@ All raw datasets are stored in the `data` folder and are used for academic analy
 ---
 
 ## Dashboard
-View the interactive Tableau dashboard here:  
-👉 https://public.tableau.com/app/profile/th.o.h.ho.ng.d.ng/viz/CAPSTONE1_17481019160940/SHIPPINGPERFORMANCE?publish=yes
+👉 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/th.o.h.ho.ng.d.ng/viz/CAPSTONE1_17481019160940/SHIPPINGPERFORMANCE?publish=yes)
+
