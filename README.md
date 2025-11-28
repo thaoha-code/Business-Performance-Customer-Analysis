@@ -20,7 +20,7 @@ The project uses multiple raw CSV files related to an e-commerce system, includi
 - blinkit_inventory.csv  
 - blinkit_inventoryNew.csv  
 
-All raw datasets are stored in the `raw_data` folder and are used for academic analysis purposes.
+All raw datasets are stored in the `data` folder and are used for academic analysis purposes.
 
 ---
 
